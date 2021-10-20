@@ -1,4 +1,4 @@
-import { render } from 'marketing/MarketingApp';
+import { render } from 'auth/AuthApp';
 import React, { useRef, useEffect } from 'react';
 import { useHistory } from 'react-router-dom';
 
